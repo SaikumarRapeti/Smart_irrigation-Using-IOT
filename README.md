@@ -1,6 +1,6 @@
 # Smart_irrigation-Using-IOT
 Smart irrigation using iot low power consumption
-Hi I made this project during E3 Sem-1
+Hi I made this project with my group in 3rd Year Semester-1
 
 Abstract :
 
